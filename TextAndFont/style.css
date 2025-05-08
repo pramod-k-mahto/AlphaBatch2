@@ -1,0 +1,72 @@
+/* 
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    /* border: 2px solid black; */
+    /* border-width: 12px;
+    border-color: rgb(246, 3, 3);
+    border-style: solid; */
+    /* border: 2px solid black; */
+    /* border-top: 12px solid red;
+    border-bottom: 12px solid green;
+    border-left: 12px solid rgb(247, 122, 5);
+    border-right: 12px solid rgb(74, 3, 3);
+    border-radius: 50%; */
+    /* border: 2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+    padding: 100px; */
+    /* box-sizing: border-box; */
+    /* padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 12px; */
+    /* margin: 100px; */
+    /* margin-left: 200px;
+    margin-top: 60px; */   
+/* } */
+/* #box1{ */
+    /* border: 2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+    /* margin-bottom: 50px; */
+    /* margin: auto;
+    margin-top: 40px; */ 
+/* } */
+
+/* #box2{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin: auto;
+     
+} */ 
+ 
+#box1{
+    /* padding-top: 100px; */
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+
+    box-shadow: 16px -25px 22px 91px black;
+    /* word-spacing: 40px; */
+    /* line-height: 50px; */
+    /* letter-spacing: 15px; */
+    /* text-align: center;
+    text-decoration:  solid black  underline;
+    text-transform: uppercase;
+    /* text-shadow: 20px -10px 2px red; */
+    /* font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:600;
+    font-style: italic; */ 
+
+
+}

@@ -1,0 +1,34 @@
+.parent{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    /* background-color: rgb(225, 14, 190); */
+    background-image: url("https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg ");
+    background-repeat: no-repeat;
+    background-size: 600px ;
+    background-position: center;
+}
+
+
+
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.box1{
+    /* visibility: hidden; */
+    /* overflow-y:; */
+      overflow: auto;
+}
+
+
+
+
+.box2{
+    /* display: none; */
+    /* visibility: hidden; */
+
+}

@@ -1,0 +1,33 @@
+/* Selector   */
+/* 
+1.*
+2.id (#)
+3. class (.)
+4.element selector (tag  name )  */
+
+/* 
+*{
+    margin: 0;
+    background-color: red;
+} */
+/* 4.element selector (tag  name )  */
+/* 
+div{
+    border: 2px solid black;
+} */
+/* 
+.box{
+    border: 2px solid black;
+
+}
+
+.box2{
+    border: 2px solid rgb(232, 12, 12);
+
+
+} */
+
+/* 
+#second{
+    border: 2px dotted rgb(232, 12, 12);
+} */
