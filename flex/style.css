@@ -1,0 +1,30 @@
+.parent{
+    border: 2px solid black;
+    height: 1000px;
+    display: flex;
+    /* flex-direction:column-reverse; */
+    /* justify-content: center; */
+    /* align-items: end;  single row */
+    /* gap: 20px; */
+    /* flex-wrap:wrap;
+    align-content:start;
+    row-gap: 50px;
+    column-gap: 100px;
+    padding: 10px; */
+    /* flex-wrap:wrap; */
+    /* justify-content: space-evenly; */
+
+    /* justify-content: center; */
+    align-items: center;
+}
+.box{
+
+        border: 2px solid black;
+        height: 100px;
+        width: 100px;
+
+        /* display: inline-block; */
+        /* display: flex; */
+
+
+}
